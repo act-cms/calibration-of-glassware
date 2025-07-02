@@ -1,2 +1,2 @@
 # calibration-of-glassware
-ACT-CMS modules to be made available on the ACT-CMS portal
+Jupyter notebook for data analysis in an Analytical Chemistry Laboratory using the density of water to calibrate volumetric glassware
